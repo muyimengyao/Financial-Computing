@@ -1,3 +1,2 @@
-# financial-forcasting
-
-### This is Assignment0 in Financial Computing.
+#ReadMe
+This repository is created for the course Financial Computing.
